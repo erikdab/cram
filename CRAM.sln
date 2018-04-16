@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRAM", "ErikBurnellLab1Zad1\CRAM.csproj", "{E69C87D5-5A6D-48EE-BB72-AB81A2D6F9D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRAM", "CRAM\CRAM.csproj", "{E69C87D5-5A6D-48EE-BB72-AB81A2D6F9D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{093DE410-DA7C-4232-BA88-ED6E26CF759D}"
 EndProject
